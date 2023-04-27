@@ -9,7 +9,7 @@ This API is for solving captchas shown in Growtopia.
 #### Solver
 
 ```http
-  GET https://growtopa.tools/api/captcha
+  GET /api/captcha
 ```
 
 | Parameter | Type     | Description                |
