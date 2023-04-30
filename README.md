@@ -5,8 +5,7 @@ This API is for solving captchas shown in Growtopia.
 <img src="https://cdn.discordapp.com/attachments/978338181613223976/1100802964974735420/Captcha_AI.png" width="31%">
 <i>Image credit: Caferius#4337</i>
 
-
-Dm Bolwl#9999 on discord to purchase key.
+<br><br><b>Dm Bolwl#9999 on discord to purchase key.</b>
 
 ## API Reference
 
