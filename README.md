@@ -5,7 +5,19 @@ This API is for solving captchas shown in Growtopia.
 <img src="https://cdn.discordapp.com/attachments/978338181613223976/1100802964974735420/Captcha_AI.png" width="31%">
 <i>Image credit: Caferius#4337</i>
 
-<br><br><b>Dm Bolwl#9999 on discord to purchase key.</b>
+
+## How to purchase?
+<b>Dm Bolwl#9999 on discord to purchase key.</b>
+
+| Request Amount | Price|
+| :-------- | :------- |
+| `1,500 request `| `3DL` |
+| `2,500 request `| `450WL` |
+| `10,000 request `| `15DL` |
+| `50,000 request `| `70DL` |
+| `100,000 request `| `125DL` |
+
+<b>For monthly keys dm Bolwl#9999 on discord.</b>
 
 ## API Reference
 
