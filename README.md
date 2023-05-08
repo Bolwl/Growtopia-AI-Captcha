@@ -73,6 +73,9 @@ resp = requests.get(url, headers=headers, data=data)
 result = resp.json()
 ```
 
+## Showcase
+<img src="https://cdn.discordapp.com/attachments/978338181613223976/1105222611253858304/showcase.gif">
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
