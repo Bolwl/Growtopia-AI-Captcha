@@ -33,13 +33,24 @@ This API is for solving captchas shown in Growtopia.
 | `id` | `string` | **Required**. Captcha ID |
 | `format` | `string` | ***Not* Required**. Response format. `txt` or `json`. Default: `json` |
 
-The result will be in json format. Example for successful answer.
+### Json Response
+Example for successful answer.
 ```
 {"success": true, "answer": "0.123"}
 ```
 Example for failed answer.
 ```
 {"success": false, "reason": "Unauthorized"}
+```
+
+### TXT Response
+Example for successful answer.
+```
+Answer|0.123
+```
+Example for failed answer.
+```
+Answer|Failed
 ```
 
 ## Usage/Examples
