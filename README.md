@@ -74,7 +74,7 @@ result = resp.json()
 ```
 
 ## Showcase
-<img src="https://cdn.discordapp.com/attachments/978338181613223976/1105222611253858304/showcase.gif">
+<img src="https://github.com/Bolwl/Growtopia-AI-Captcha/blob/b3b8555b14cf434f91d3d3d9730b25bf55540401/showcase.gif?raw=true" alt="Captcha Solver Showcase" title="Captcha Solver Showcase" width="500"/>
 
 ## License
 
