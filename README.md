@@ -31,6 +31,7 @@ This API is for solving captchas shown in Growtopia.
 | :-------- | :------- | :------------------------- |
 | `key` | `string` | **Required**. Your API key. |
 | `id` | `string` | **Required**. Captcha ID |
+| `format` | `string` | ***Not* Required**. Response format. `txt` or `json`. Default: `json` |
 
 The result will be in json format. Example for successful answer.
 ```
