@@ -5,6 +5,8 @@ This API is for solving captchas shown in Growtopia.
 <img src="https://cdn.discordapp.com/attachments/978338181613223976/1100802964974735420/Captcha_AI.png" width="31%">
 <i>Image credit: Caferius#4337</i>
 
+## Solver Speed
+Captchas are solved in 0-1.4 seconds.
 
 ## How to purchase?
 <b>Dm Bolwl#9999 on discord to purchase key.</b>
@@ -32,6 +34,8 @@ This API is for solving captchas shown in Growtopia.
 | `key` | `string` | **Required**. Your API key. |
 | `id` | `string` | **Required**. Captcha ID |
 | `format` | `string` | ***Not* Required**. Response format. `txt` or `json`. Default: `json` |
+
+curl "https://growtopia.tools/api/captcha/?id={captchaid}&key={secretkey}&format=json" 
 
 ### Json Response
 Example for successful answer.
@@ -65,7 +69,7 @@ url = "https://growtopia.tools/api/captcha"
 headers = CaseInsensitiveDict()
 headers["Content-Type"] = "application/x-www-form-urlencoded"
 
-data = "key={yourkey}&id={captchaid}"
+data = "key={yourkey}&id={captchaid}&format=json"
 
 
 resp = requests.get(url, headers=headers, data=data)
