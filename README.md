@@ -8,6 +8,9 @@ This API is for solving captchas shown in Growtopia.
 ## Solver Speed
 Captchas are solved in 0-1.4 seconds.
 
+## Success Rate
+Captchas are solved with 99.9% accuracy.
+
 ## How to purchase?
 <b>Dm Bolwl#9999 on discord to purchase key.</b>
 
