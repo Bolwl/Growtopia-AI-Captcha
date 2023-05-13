@@ -60,6 +60,13 @@ Example for failed answer.
 Answer|Failed
 ```
 
+### Check Usages
+curl "https://growtopia.tools/api/info?api=captcha&key={secretkey}"
+
+```
+{"success": true, "usage": usageleft(int), "subscription": "subscription type(string)"}
+```
+
 ## Usage/Examples
 
 #### Solver
