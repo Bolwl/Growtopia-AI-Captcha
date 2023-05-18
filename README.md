@@ -5,11 +5,13 @@ This API is for solving captchas shown in Growtopia.
 <img src="https://cdn.discordapp.com/attachments/978338181613223976/1100802964974735420/Captcha_AI.png" width="31%">
 <i>Image credit: Caferius#4337</i>
 
-## Solver Speed
-Captchas are solved in 0-1.4 seconds.
+## Speed
+Solver Speed 0.2-0.3 seconds.
+API Latency 0-1.1 seconds.
+Total Speed 0.2-1.4 seconds.
 
 ## Success Rate
-Captchas are solved with 99.9% accuracy.
+Captchas are solved with 99.95% accuracy.
 
 ## How to purchase?
 <b>Dm Bolwl#9999 on discord to purchase key.</b>
