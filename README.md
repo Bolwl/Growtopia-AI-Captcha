@@ -11,7 +11,8 @@ API Latency 0-1.1 seconds.
 Total Speed 0.2-1.4 seconds.
 
 ## Success Rate
-Captchas are solved with 99.95% accuracy.
+Captchas are solved with 99.9997804232% accuracy. (1 fail every 4554 captchas)
+It can detect every captcha, even the ones you can't see with your own eyes. (Fails are caused because gt is too strict about answer. Even though the solver finds the answer correctly, it sometimes finds the answer 1-2 pixels off which causes wrong answer.)
 
 ## How to purchase?
 <b>Dm Bolwl#9999 on discord to purchase key.</b>
